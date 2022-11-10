@@ -3,7 +3,7 @@ The browser for minimalists
 
 a few installations:
 ```
-pip install PyQtWebEngine
+pip install PyQt5
 pip install PyQtWebEngine
 ```
 and everything should work perfectly.
